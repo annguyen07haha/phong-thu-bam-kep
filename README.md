@@ -9,5 +9,5 @@
 ## Hướng dẫn sử dụng
 1. Để tạo ra một mật khẩu ngẫu nhiên an toàn, chạy lệnh:
    `python "sinh ngẫu nhiên mật khẩu.py"`
-2. Để test thuật toán băm 2 lớp, chạy lệnh dưới đây và nhập mật khẩu vào terminal:
+2. Để test thuật toán băm 2 lớp, chạy lệnh dưới đây và nhập lần lượt mật khẩu hồ sơ và mật khẩu ngẫu nhiên vào terminal:
    `python "mã hóa mật khẩu.py"`
